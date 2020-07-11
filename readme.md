@@ -1,15 +1,19 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Comunicating Data Findings
+## by Mostafa Ahmed
 
 
-## Dataset
+## Gun Deaths Im America Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+> This Dataset is about differant death causes in america,\
+like Suicide, Homiecide, and Accedents, at the period of 2012 to 2014,\
+it provides differant informations about the situation such like,\
+police intervention, age, race, education, date, gender.
 
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+> We found a lot of inttersting things,
+
 
 
 ## Key Insights for Presentation
