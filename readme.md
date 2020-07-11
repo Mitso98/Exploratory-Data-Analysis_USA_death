@@ -27,6 +27,8 @@ but males suicide methods are more violent, making them more likely to complete 
 
 
 
-## Key Insights for Presentation
+## Glimpse of the Presentation
 
 <img src="dist_int_race_heatmap.png">
+
+<img src="age_int_violin.png">
