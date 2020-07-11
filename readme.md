@@ -18,11 +18,15 @@ police intervention, age, race, education, date, gender.
 howver wome attempts are more often,\
 moreover they are more prone to depresion,\
 but males suicide methods are more violent, making them more likely to complete before anyone can intervent.
-- 
-
+- The spring is the most period that we can see number of sucide attempts increase.
+- February has the least number of over all deaths.
+- In America White race is the most sucide, and Black race is the most homicide.
+- Most race shooted by police is the White race.
+- all intentions have biomodal distribution of age, except homicide peak at arround 19 then falls.
+- In both Homicide and suicide, white race density is arround 55, while other races density is arround 20 then it takes falling
 
 
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+<img src="dist_int_race_heatmap.png">
