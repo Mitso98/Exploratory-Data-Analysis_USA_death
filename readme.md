@@ -12,7 +12,14 @@ police intervention, age, race, education, date, gender.
 
 ## Summary of Findings
 
-> We found a lot of inttersting things,
+> We found a lot of inttersting things,\
+- The most intentions in our dataset are suicide, homiecide, accedents, respectively.
+- Men suicide more than women,\
+howver wome attempts are more often,\
+moreover they are more prone to depresion,\
+but males suicide methods are more violent, making them more likely to complete before anyone can intervent.
+- 
+
 
 
 
