@@ -38,4 +38,4 @@ but males suicide methods are more violent, making them more likely to complete 
 - exploration_template.ipynb - This Jupyter Notebook contains code used to wrangle and exporee data.
 - slide_deck_template.ipynb - This Jupyter Notebook contains the codee to build the presntation.
 - output_toggle.tpl - This template file can be used with nbconvert to export your slide deck. This adds extra functionality to the slide deck by hiding the code to start, only making it visible if the reader clicks on the output (which should mostly be visualizations in the case of this project).
-- Death Data.csv , The original data file, death_data_cleaned.csv the wrangled file.
+- Death data.csv , The original data file, death_data_cleaned.csv the wrangled file.
