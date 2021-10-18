@@ -15,7 +15,7 @@ police intervention, age, race, education, date, gender.
 > We found a lot of inttersting results,\
 - The most intentions in our dataset are suicide, homiecide, accedents, respectively.
 - Men suicide more than women,\
-howver wome attempts are more often,\
+howvere women attempts are more often,\
 moreover they are more prone to depresion,\
 but males suicide methods are more violent, making them more likely to complete before anyone can intervent.
 - The spring is the most period that we can see number of sucide attempts increase.
