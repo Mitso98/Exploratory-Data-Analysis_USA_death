@@ -2,7 +2,7 @@
 ## by Mostafa Ahmed
 
 
-## Gun Deaths Im America Dataset
+## Gun Deaths In America Dataset
 
 > This Dataset is about differant death causes in america,\
 like Suicide, Homiecide, and Accedents, at the period of 2012 to 2014,\
@@ -12,7 +12,7 @@ police intervention, age, race, education, date, gender.
 
 ## Summary of Findings
 
-> We found a lot of inttersting things,\
+> We found a lot of inttersting results,\
 - The most intentions in our dataset are suicide, homiecide, accedents, respectively.
 - Men suicide more than women,\
 howver wome attempts are more often,\
